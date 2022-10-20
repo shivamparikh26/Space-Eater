@@ -1,1 +1,1 @@
-# Space-Eater
+Welcome to Space Eater! Use your arrow keys to move the blue turtle around your screen. Try to make your turtle eat the red dots moving around the screen, but beware of the red box. If your turtle touches the walls of the red square you lose and have to start over again. Good luck and have fun!😀
